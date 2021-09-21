@@ -11,6 +11,8 @@ Build into a [customised CUE fork](https://github.com/orpharion/Cue/tree/cue_tra
 
 ## Usage
 
+Install the customised cue binary, and then:
+
 See testdata/xml - converts input.xml to output.json
 ```shell
 cd testdata/xml
